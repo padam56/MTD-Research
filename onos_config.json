@@ -1,0 +1,7 @@
+{
+  "_comment": "MTD-Brain ONOS Controller Configuration. Update controller_ip before running.",
+  "controller_ip": "192.168.1.1",
+  "port": 8181,
+  "username": "onos",
+  "password": "rocks"
+}
