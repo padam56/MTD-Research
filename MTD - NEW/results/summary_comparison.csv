@@ -1,5 +1,0 @@
-strategy,ASR,mean_ACT,mean_recon_accuracy,mean_path_entropy,mean_attacker_entropy,mean_latency_ms,mean_service_availability,mean_mutations,mean_total_reward
-No MTD,1.0,30.9,0.3271,0.9986,0.6146,11.18,1.0,0.0,10.27
-Random MTD,0.06,193.7,0.0427,0.9217,0.9829,220.72,0.8249,128.8,146.62
-Periodic MTD,0.98,67.9,0.1866,0.9101,0.8096,49.88,0.9768,7.1,43.52
-DQN Adaptive MTD,0.64,141.1,0.037,0.9924,0.9813,73.99,0.8944,57.8,132.43
